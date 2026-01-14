@@ -1,8 +1,0 @@
-<div class="flex gap-3">
-              <a href="https://github.com/jaberahmed435/cineflow-movie-subscription" target="_blank" class="border border-gray-600/30 rounded-lg p-2 text-[13px] w-[100px] flex justify-center items-center hover:border-[var(--accent1)]/50 transition-colors">
-                <p>View Code</p>
-              </a>
-              <a href="https://movie-subscription-box.surge.sh/" target="_blank" class="border border-gray-600/30 rounded-lg p-2 text-[13px] w-[100px] flex justify-center items-center hover:border-[var(--accent1)]/50 transition-colors">
-                <p>Live Preview</p>
-              </a>
-            </div>
